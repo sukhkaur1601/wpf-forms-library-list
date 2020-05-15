@@ -1,0 +1,15 @@
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\bin\Debug\StoreApp.exe.config
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\bin\Debug\StoreApp.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\bin\Debug\StoreApp.pdb
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\App.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\MainWindow.baml
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.g.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\StoreApp\obj\Debug\StoreApp.pdb

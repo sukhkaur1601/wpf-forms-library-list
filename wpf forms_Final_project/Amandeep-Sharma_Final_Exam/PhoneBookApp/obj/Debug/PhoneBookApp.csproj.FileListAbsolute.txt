@@ -1,0 +1,15 @@
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\bin\Debug\PhoneBookApp.exe.config
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\bin\Debug\PhoneBookApp.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\bin\Debug\PhoneBookApp.pdb
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.csprojAssemblyReference.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\MainWindow.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\App.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp_MarkupCompile.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp_MarkupCompile.lref
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\MainWindow.baml
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.g.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.Properties.Resources.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.GenerateResource.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\PhoneBookApp\obj\Debug\PhoneBookApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\bin\Debug\Calculator_App.exe.config
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.csprojAssemblyReference.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\MainWindow.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\App.g.cs
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App_MarkupCompile.lref
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\MainWindow.baml
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.g.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\asharma1\source\repos\Amandeep-Sharma_Final_Exam\Calculator_App\obj\Debug\Calculator_App.pdb
